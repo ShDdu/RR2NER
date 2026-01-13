@@ -1,6 +1,6 @@
-# SS2NER: A Region Representation for Entity Tagging and Locating
+# RR2NER: A Region Representation for Entity Tagging and Locating
 
-SS2NER is a deep learning framework designed to solve the **ambiguity problem** in 2D semantic plane NER methods. Traditional element-classification approaches often struggle with "false positive" errors because adjacent elements (overlapping spans) share highly similar contextual features. SS2NER addresses this by shifting from **element representation** to **region representation**, treating named entities as distinct spatial regions within the semantic plane.
+RR2NER is a deep learning framework designed to solve the **ambiguity problem** in 2D semantic plane NER methods. Traditional element-classification approaches often struggle with "false positive" errors because adjacent elements (overlapping spans) share highly similar contextual features. SS2NER addresses this by shifting from **element representation** to **region representation**, treating named entities as distinct spatial regions within the semantic plane.
 
 ---
 
